@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: #00A7E1;
+    margin: 0px;
+}
+
+.para{
+    text-align: left;
+    color: #FFFFFF;
+    background-color: #FF8E72;
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.heading{
+    color: #FFFFFF;
+    background-color: #4A5759;
+    margin: 50px;
+    padding: 20px;
+}
+
+.footer{
+    text-align: left;
+    background-color: #F45B69;
+    margin: 50px;
+    padding: 10px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.oragami{
+    border: #000000;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+}
